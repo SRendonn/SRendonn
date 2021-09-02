@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Sebastian Rendon, thanks for checking my Github profile!
 
+I'm currently working on front-end development, but I'm always open to learn things that catch my eye 👀.
+
 ```ts
-// 🔭 I'm currently working on front-end development, but I'm always open to learn things that catch my eye 👀.
 const me: Developer = {
   workingOn: ['Vue.js 💚', 'Nuxt.js 📗', 'CSS 🎨', 'Docker 🐋', 'NestJS 🐱', 'MongoDB 🍃'],
   alsoKnow: ['Node.js 🔗', 'Angular 🔺', 'Svelte 🟠', 'Java ☕'],
