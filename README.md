@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Sebastian Rendon, thanks for checking my Github profile!
+### Hi there 👋, I'm Sebastian Rendon.
 
 I'm currently working on front-end development, but I'm always open to learn things that catch my eye 👀.
 
