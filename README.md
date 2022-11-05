@@ -5,8 +5,8 @@ I'm currently working on front-end development, but I'm always open to learn thi
 ```ts
 const me: Developer = {
   workingOn: ['Vue.js 💚', 'Nuxt.js 📗', 'CSS 🎨', 'Docker 🐋', 'NestJS 🐱', 'MongoDB 🍃'],
-  alsoKnow: ['Node.js 🔗', 'Angular 🔺', 'Svelte 🟠', 'Java ☕'],
-  learning: ['React ⚛️', 'Scala 🚩'],
+  alsoKnow: ['Node.js 🔗', 'React ⚛️'],
+  learning: ['Angular 🔺'],
   interests: ['Formula 1 🏎️', 'Tech 💻', 'Gaming 🎮'],
   languages: ['Español', 'English'],
   country: 'Colombia',
